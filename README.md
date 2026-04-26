@@ -113,9 +113,4 @@ I specialize in:
 🏫 Daffodil Institute of IT  
 📊 CGPA: 3.15 / 4.00  
 
----
 
-## 📈 GitHub Stats
-
-```bash
-(You can add GitHub stats here using GitHub Readme Stats later)
