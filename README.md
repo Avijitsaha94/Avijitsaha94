@@ -132,8 +132,8 @@ I am a passionate **Full Stack Developer** with hands-on experience building sca
 ## 📫 Connect With Me
 
 - 🔗 GitHub: https://github.com/Avijitsaha94  
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+- 🔗 LinkedIn: https://www.linkedin.com/in/avijitsh94
 
 ---
 
-⭐ **Open to opportunities as a Frontend / Full Stack Developer**
+⭐ **Open to opportunities as a Frontend / Backend Developer / Full Stack Developer**
