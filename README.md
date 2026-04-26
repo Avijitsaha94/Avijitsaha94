@@ -11,13 +11,14 @@
 
 I am a passionate **Full Stack Developer** with hands-on experience building scalable and production-ready web applications.
 
-I specialize in:
-- Building modern frontend apps with **React & Next.js**
-- Developing secure and scalable **REST APIs**
-- Designing efficient **database systems**
-- Creating **real-time applications**
+💡 I specialize in:
+- Modern frontend development with **React & Next.js**
+- Backend development using **Node.js & Express**
+- Secure authentication systems (**JWT, RBAC**)
+- Real-time applications (**Socket.io**)
+- Database design (**MongoDB & PostgreSQL**)
 
-💡 I love solving real-world problems with clean, maintainable code.
+🚀 I enjoy solving real-world problems and writing clean, maintainable code.
 
 ---
 
@@ -48,8 +49,8 @@ I specialize in:
 ### 🔌 Integrations
 - Cloudinary
 - Stripe / SSLCommerz
-- Resend (Email)
-- Arcjet (Security & Rate Limiting)
+- Resend
+- Arcjet
 
 ### 🧰 Tools
 - Git & GitHub
@@ -61,13 +62,15 @@ I specialize in:
 
 ## 🚀 Projects
 
-### 🔹 Chatify (Real-time Chat App)
+### 🔹 Chatify – Real-time Chat App
 📌 Tech: React, Node.js, Socket.io, MongoDB  
 
-- Built a full-stack real-time chat system with **JWT authentication**
-- Implemented **live messaging & online/offline status**
+- Built full-stack real-time chat application with **JWT authentication**
+- Implemented **real-time messaging & online/offline status**
 - Integrated **Cloudinary (image upload)** & **Resend (email)**
 - Used **Zustand** for global state management  
+
+🔗 GitHub: https://github.com/your-chatify-link  
 
 ---
 
@@ -75,12 +78,13 @@ I specialize in:
 📌 Tech: React, TypeScript, Node.js, MongoDB  
 
 - Built complete **inventory & order management system**
-- Achieved **40% faster performance** using RTK Query caching
+- Improved performance by **40% using RTK Query caching**
 - Implemented **role-based authentication (Admin/User)**
-- Developed **analytics dashboard with charts (Recharts)**  
-- Prevented **overselling with real-time stock updates**
+- Created **analytics dashboard (Recharts)**
+- Prevented overselling with **real-time stock updates**
 
 🔗 Live: https://smart-inventory-order-management-sy-two.vercel.app/  
+🔗 GitHub: https://github.com/Avijitsaha94/Smart-Inventory-Order-Management-System  
 
 ---
 
@@ -92,6 +96,8 @@ I specialize in:
 - Implemented **search, filtering, pagination**
 - Built scalable backend with **Zod validation & MVC architecture**
 
+🔗 GitHub: https://github.com/your-library-project-link  
+
 ---
 
 ## 💼 Experience
@@ -102,8 +108,8 @@ I specialize in:
 
 - Optimized SQL queries for analytics & reporting  
 - Worked with joins, aggregations & constraints  
-- Maintained data integrity with structured schema  
-- Supported backend workflows with clean datasets  
+- Maintained data integrity and schema design  
+- Supported backend workflows with structured datasets  
 
 ---
 
@@ -113,4 +119,21 @@ I specialize in:
 🏫 Daffodil Institute of IT  
 📊 CGPA: 3.15 / 4.00  
 
+---
 
+## 📊 GitHub Stats
+
+![Avijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avijitsaha94&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avijitsaha94&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 GitHub: https://github.com/Avijitsaha94  
+- 🔗 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+
+---
+
+⭐ **Open to opportunities as a Frontend / Full Stack Developer**
